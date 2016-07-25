@@ -9,5 +9,5 @@ By Addison BG (Programming) & Holie H (Art)
 * MinGW 32-bit (for Windows)
 * CMake
 
-# that font
+### that font
 https://github.com/EbenSorkin/Atomic-Age
