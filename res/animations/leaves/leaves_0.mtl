@@ -1,0 +1,11 @@
+# Blender MTL File: 'leaves_0.blend'
+# Material Count: 1
+
+newmtl phong1SG
+Ns 15.686275
+Ka 0.000000 0.000000 0.000000
+Kd 0.120000 0.176000 0.088000
+Ks 0.107895 0.107895 0.107895
+Ni 1.000000
+d 0.852632
+illum 2
