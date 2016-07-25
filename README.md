@@ -11,8 +11,8 @@ By Addison BG (Programming) & Holie H (Art)
 * CMake
 
 Place the Opulence graphics engine in the root directory.
-Overwrite the CMakeLists.txt file in Opulence with
-the CMakeLists.txt file in this folder.
+Overwrite the CMakeLists.txt file in Opulence with the CMakeLists.txt file in this folder.
+Compile using CMake in the Opulence folder.
 
 #### that font
 https://github.com/EbenSorkin/Atomic-Age
