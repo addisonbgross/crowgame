@@ -13,6 +13,7 @@ By Addison BG (Programming) & Holie H (Art)
 Use your terminal and get to this folder. 
 
 In your shell run: `git submodule init --recursive`
+
          then run: `git submodule update`
 
 Overwrite the CMakeLists.txt file in Opulence with the CMakeLists.txt file in this folder.
