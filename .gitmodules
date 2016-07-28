@@ -1,0 +1,3 @@
+[submodule "crowgame"]
+	path = crowgame
+	url = git@github.com:addisonbgross/crowgame.git
