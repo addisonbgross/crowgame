@@ -12,9 +12,11 @@ By Addison BG (Programming) & Holie H (Art)
 ### run this things
 Use your terminal and get to this folder. 
 
-In your shell run: `git submodule init --recursive`
+In your shell run: 
 
-         then run: `git submodule update`
+`git submodule init --recursive`
+
+`git submodule update`
 
 Overwrite the CMakeLists.txt file in Opulence with the CMakeLists.txt file in this folder.
 Compile using CMake in the Opulence folder. Your output game executable will be generated
