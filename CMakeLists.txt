@@ -47,8 +47,71 @@ set_source_files_properties(../main.cpp
 add_executable(opulence
             ${SOURCE_FILES}
 
+            # entities
+            src/entity/Entity.cpp
+            src/entity/Entity.h
+            src/entity/model/Model.cpp
+            src/entity/model/Model.h
+            src/entity/animation/Animation.cpp
+            src/entity/animation/Animation.h
+            src/entity/camera/Camera.cpp
+            src/entity/camera/Camera.h
+            src/entity/camera/RtsCamera.cpp
+            src/entity/camera/RtsCamera.h
+            src/entity/light/Light.cpp
+            src/entity/light/Light.h
+            src/entity/light/PointLight.cpp
+            src/entity/light/PointLight.h
+            src/entity/light/DirectionalLight.cpp
+            src/entity/light/DirectionalLight.h
+
+            # loaders
+            src/loader/ShaderLoader.cpp
+            src/loader/ShaderLoader.h
+            src/loader/ObjLoader.cpp
+            src/loader/ObjLoader.h
+
+            # services
+            src/service/BufferCourier.cpp
+            src/service/BufferCourier.h
+            src/service/GLManager.cpp
+            src/service/GLManager.h
+            src/service/TimeManager.cpp
+            src/service/TimeManager.h
+            src/service/OsType.h
+
+            # factories
+            src/factory/CameraFactory.cpp
+            src/factory/CameraFactory.h
+            src/factory/LightFactory.cpp
+            src/factory/LightFactory.h
+            src/factory/ModelFactory.cpp
+            src/factory/ModelFactory.h
+
+            # containers
+            src/container/obj_data.h
+            src/container/mtl_data.h
+
             # add your cpp and hpp files here!
             # one per line
+
+            # generated includes
+            ../src/anima/interface/character/CharacterSet.cpp
+            ../src/anima/interface/character/Character.cpp
+            ../src/anima/interface/button/Button.cpp
+            ../src/habitat/tree/Tree.cpp
+            ../src/habitat/garbage/Garbage.cpp
+            ../src/controller/standardcontroller/StandardController.cpp
+            ../src/utility/LevelMaker.cpp
+            ../src/utility/DayManager.cpp
+            ../src/sprite/Sprite.cpp
+            ../src/sprite/AdvancedSprite.cpp
+            ../src/service/PathFinder.cpp
+            ../src/service/Manipulator.cpp
+            ../src/service/Lobber.cpp
+            ../src/generator/SpriteGenerator.cpp
+            ../src/generator/InterfaceGenerator.cpp
+            ../src/ai/Ai.cpp
 )
 
 target_link_libraries(opulence

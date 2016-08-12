@@ -2,7 +2,7 @@
 
 By Addison BG (Programming) & Holie H (Art)
 
-This game was made in a year, along side the Opulence Graphics engine, as an experiement in
+This game was made in a year, along side and with the [Opulence Graphics engine](https://github.com/addisonbgross/opulence). This is an experiement in
 creating a game without direction.
 
 ### things you need
@@ -18,7 +18,7 @@ Use your terminal and get to this folder.
 
 In your shell run: 
 
-`git submodule init --recursive`
+`git submodule init`
 
 `git submodule update`
 
