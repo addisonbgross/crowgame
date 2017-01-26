@@ -10,7 +10,6 @@ creating a game without direction.
 ![alt tag](screenshots/town1.png)
 ![alt tag](screenshots/town2.png)
 ![alt tag](screenshots/town3.png)
-![alt tag](screenshots/town4.png)
 
 ### things you need
 * OpenGL 3.3+
