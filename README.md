@@ -1,6 +1,6 @@
 # crowgame
 
-By Addison BG (Programming) & Holie H (Art)
+By Addison BG (Programming) & Hollie H (Art)
 
 This game was made in a year, along side and with the [Opulence Graphics engine](https://github.com/addisonbgross/opulence). This is an experiement in
 creating a game without direction.
