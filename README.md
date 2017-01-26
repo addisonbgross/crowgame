@@ -19,11 +19,10 @@ creating a game without direction.
 * CMake
 * patience
 
-<<<<<<< HEAD
 ### run this thing
-Overwrite the CMakeLists.txt file in Opulence with the CMakeLists.txt file in this folder.
-Compile using CMake in the Opulence folder. Your output game executable will be generated
-in the Opulence folder
+Install the submodule for this game (Opulence). Overwrite the CMakeLists.txt file in Opulence 
+with the CMakeLists.txt file in this folder. Compile using CMake in the Opulence folder. Your 
+output game executable will be generated in the Opulence folder
 
 #### that font
 https://github.com/EbenSorkin/Atomic-Age
