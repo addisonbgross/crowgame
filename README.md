@@ -20,6 +20,7 @@ creating a game without direction.
 * CMake
 * patience
 
+<<<<<<< HEAD
 ### run this thing
 Overwrite the CMakeLists.txt file in Opulence with the CMakeLists.txt file in this folder.
 Compile using CMake in the Opulence folder. Your output game executable will be generated

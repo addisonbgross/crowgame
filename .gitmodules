@@ -1,3 +1,6 @@
 [submodule "crowgame"]
 	path = crowgame
 	url = git@github.com:addisonbgross/crowgame.git
+[submodule "opulence"]
+	path = opulence
+	url = git@github.com:addisonbgross/opulence.git
